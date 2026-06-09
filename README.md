@@ -49,8 +49,7 @@
 
 <p align="center">
 To easily install Random Texture, you can use Gorilla Mod Manager or Several Bees<br>
-GMM is relatively easy to use, below are the download links for different operating systems.<br>
-<a href="https://github.com/void-develops/Gorilla-Mod-Manager/releases/latest/download/Gorilla.Mod.Manager.exe">GMM</a>
+<a href="https://github.com/void-develops/Gorilla-Mod-Manager/releases/latest/download/Gorilla.Mod.Manager.exe">GMM</a> | 
 <a href="https://github.com/sevvy-wevvy/Several-Bees/releases/latest/download/SeveralBees-Gtag.dll">Several bees</a>
 </p>
 </details>
