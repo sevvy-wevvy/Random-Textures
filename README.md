@@ -26,6 +26,14 @@
 </p>
 
 <p align="center">
+  Random Textures is a mod that replaces all texture in game with and images your want!<br>
+  You will see a "Random Texture Textures" in your Bepinex folder, put any PNG files you want in there and restart your game or select "Reload Texs" in game.<br> 
+  Please keep in mind this mod only works in modded lobbys using utilla or when your not in a lobby at all.<br> <br>
+  Do you like this mod? If so, please let me know!  
+  <a href="https://sevvy-wevvy.com/discord">Discord</a>
+</p>
+
+<p align="center">
 <a href="https://github.com/sevvy-wevvy/Several-Bees" target="_blank" style="margin-left:10px;">
   <img src="https://img.shields.io/badge/Several%20Bees-yellow?style=for-the-badge&label=Depends%20On&labelColor=grey" 
        alt="Depends On Several Bees" height="19">
@@ -34,14 +42,6 @@
   <img src="https://img.shields.io/badge/Utilla-black?style=for-the-badge&label=Depends%20On&labelColor=grey" 
        alt="Depends On Utilla" height="19">
 </a>
-</p>
-
-<p align="center">
-  Random Textures is a mod that replaces all texture in game with and images your want!<br>
-  You will see a "Random Texture Textures" in your Bepinex folder, put any PNG files you want in there and restart your game or select "Reload Texs" in game.<br> 
-  Please keep in mind this mod only works in modded lobbys using utilla or when your not in a lobby at all.<br> <br>
-  Do you like this mod? If so, please let me know!  
-  <a href="https://sevvy-wevvy.com/discord">Discord</a>
 </p>
 
 <details>
