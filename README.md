@@ -1,4 +1,4 @@
-<h1 align="center">📸 Several Bees 📸</h1>
+<h1 align="center">📸 Random Textures 📸</h1>
 
 <p align="center">
 <b>A Gorilla Tag Mod that replaces all textures with random images!</b>
