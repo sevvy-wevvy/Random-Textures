@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Random Textures", "Random Textures.csproj", "{484E8E08-2A1B-A686-DD04-789102ACC52F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{484E8E08-2A1B-A686-DD04-789102ACC52F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{484E8E08-2A1B-A686-DD04-789102ACC52F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{484E8E08-2A1B-A686-DD04-789102ACC52F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{484E8E08-2A1B-A686-DD04-789102ACC52F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3784B25-16C2-42CC-B0B1-FDA0B9DD4123}
+	EndGlobalSection
+EndGlobal
