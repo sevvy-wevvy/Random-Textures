@@ -74,7 +74,7 @@ GMM is relatively easy to use, below are the download links for different operat
 <summary align="center"><b>🛠 Pull Requests 🛠</b></summary>
 
 <p align="center">
-Want to help with this lib? <a href="https://github.com/sevvy-wevvy/Several-Bees/pulls">Make A pull request!</a><br>
+Want to help with this lib? <a href="https://github.com/sevvy-wevvy/Random-Textures/pulls">Make A pull request!</a><br>
 Pull request allow for anyone to request a change to this code. In turn meaning that <b>YOU</b> can contribute to this project.<br>
 As long as it works, and doesn't vary off too far from the main idea it's very likely it get accepted!
 </p>
@@ -85,7 +85,7 @@ As long as it works, and doesn't vary off too far from the main idea it's very l
 
 <p align="center">
   <small>
-    <b>Several Bees</b> is released under the  
+    <b>Random Textures</b> is released under the  
     <a href="https://www.gnu.org/licenses/gpl-3.0.html" target="_blank">GPL-3.0 License</a>.  
     This means you’re free to use, modify, and share the code. As long as you:
   </small>
