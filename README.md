@@ -65,10 +65,7 @@ GMM is relatively easy to use, below are the download links for different operat
  <img src="https://github.com/sevvy-wevvy/Random-Textures/blob/main/Resources/GitHub/2.png?raw=true" width=70% height=auto</img><br>
  <img src="https://github.com/sevvy-wevvy/Random-Textures/blob/main/Resources/GitHub/3.png?raw=true" width=70% height=auto</img><br>
  <img src="https://github.com/sevvy-wevvy/Random-Textures/blob/main/Resources/GitHub/4.png?raw=true" width=70% height=auto</img><br>
- <img src="https://github.com/sevvy-wevvy/Random-Textures/blob/main/Resources/GitHub/5.png?raw=true" width=70% height=auto</img><br>
- <img src="https://github.com/sevvy-wevvy/Random-Textures/blob/main/Resources/GitHub/6.png?raw=true" width=70% height=auto</img><br>
- <img src="https://github.com/sevvy-wevvy/Random-Textures/blob/main/Resources/GitHub/7.png?raw=true" width=70% height=auto</img><br>
- <img src="https://github.com/sevvy-wevvy/Random-Textures/blob/main/Resources/GitHub/8.png?raw=true" width=70% height=auto</img><br>
+ <img src="https://github.com/sevvy-wevvy/Random-Textures/blob/main/Resources/GitHub/5.png?raw=true" width=70% height=auto</img>
 </div><br>
 </p>
 </details>
